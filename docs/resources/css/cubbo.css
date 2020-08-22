@@ -1,4 +1,4 @@
- Custom Base Font for Keycload Website */
+ Custom Base Font for cubbo Website */
 
 
 /**********************************************************************************************************
@@ -236,24 +236,24 @@ header.main-header {
 .main-header   div {
 }
 
-.keycloak-logo-div {
+.cubbo-logo-div {
 
 }
 
-.keycloak-logo-div button {
+.cubbo-logo-div button {
     border-color:#004670;
     z-index: 500;
     margin:0;
     left:-1em;
 }
 
-.keycloak-logo-div button span {
+.cubbo-logo-div button span {
     background:#004670;
 }
 
-.keycloak-logo {
+.cubbo-logo {
     /*display:block;
-    background: url('../images/keycloak_logo_480x108.png') no-repeat;
+    background: url('../images/cubbo_logo_480x108.png') no-repeat;
     background-size:cover;
     background-position: center center;*/
     padding-top: 10px;
@@ -804,11 +804,11 @@ span.fs.clipboard {
         font-size: 1.2em;
     }
 
-    .keycloak-logo-div,
-    .keycloak-logo-a {
+    .cubbo-logo-div,
+    .cubbo-logo-a {
         text-align:center;
     }
-    .keycloak-logo {
+    .cubbo-logo {
         margin:0 auto;
         width:40%;
         height:auto;
@@ -866,7 +866,7 @@ span.fs.clipboard {
 }
 
 @media(max-width:480px) {
-    .keycloak-logo {
+    .cubbo-logo {
         width:60%;
         height:auto;
     }
